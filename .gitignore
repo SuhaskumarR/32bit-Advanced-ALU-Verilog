@@ -1,0 +1,14 @@
+# Icarus Verilog build output
+*.vvp
+
+# GTKWave waveform files
+*.vcd
+
+# Temporary/editor files
+*~
+*.swp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
